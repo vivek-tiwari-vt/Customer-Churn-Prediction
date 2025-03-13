@@ -33,7 +33,7 @@ Columns include:
 ## Installation 🔧
 ### 1. Clone repository
 ```bash
-git clone https://github.com/your-username/churn-prediction.git
+git clone https://github.com/vivek-tiwari-vt/Customer-Churn-Prediction.git
 cd churn-prediction
 
 ```
